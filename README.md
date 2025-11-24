@@ -1,1 +1,1 @@
-# Genuine-and-spurious-non--ergodicity-in-single-particle-tracking
+The MATLAB codes (recommended for MATLAB 2023b or later) generate simulation data for fractional OUP, resetting FBM, RL-FBM, Lévy walks, and CTRW. The main scripts compute a variety of statistics, including MSD, MSI, and (EA-)TAMSD. In addition, the EB parameters for resetting FBM and RL-FBM can be evaluated using the scripts main_EB_reset_fbm and main_EB_RLFBM.
